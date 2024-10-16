@@ -1,5 +1,13 @@
 ## 👩🏻‍💻 Introduce
-* E-mail : novzs@naver.com
+✉️ E-mail : novzs@naver.com
+
+## 📂 Project
+💡 [SK 기업주도 스마트팩토리 이상탐지 서비스](https://github.com/K-Software-BootCamp/2023KEB_SKII)  
+<br/>
+💡 [KT AivleSchool AWS 안면인식 AI Rekognition 활용한 HRM 서비스](https://github.com/novzs/FAST_HRM)  
+<br/>
+💡 [카카오 관광데이터 활용 공모전 생태관광웹앱 서비스](https://github.com/ECO-TOUR/back-end)
+<br/>
 
 ## 🖥️ Backend Programmer
 
