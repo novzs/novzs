@@ -3,7 +3,7 @@
 ✉️ E-mail : novzs@naver.com
 
 ## 📂 Project
-💡 [SK 기업주도 스마트팩토리 이상탐지 서비스](https://github.com/K-Software-BootCamp/2023KEB_SKII)  
+💡 [SK 기업 주도 스마트팩토리 이상탐지 서비스](https://github.com/K-Software-BootCamp/2023KEB_SKII)  
 <blockquote>
  ROLE : 전처리 및 모델 개발 <br/>
  PERIOD : 2023-06 ~ 2023-08 <br/>
