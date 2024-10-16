@@ -3,11 +3,21 @@
 
 ## 📂 Project
 💡 [SK 기업주도 스마트팩토리 이상탐지 서비스](https://github.com/K-Software-BootCamp/2023KEB_SKII)  
-<br/>
+<blockquote>
+ ROLE : 전처리 및 모델 개발
+</blockquote>
+
 💡 [KT AivleSchool AWS 안면인식 AI Rekognition 활용한 HRM 서비스](https://github.com/novzs/FAST_HRM)  
-<br/>
-💡 [카카오 관광데이터 활용 공모전 생태관광웹앱 서비스](https://github.com/ECO-TOUR/back-end)
-<br/>
+<blockquote>
+ ROLE : PM, 백엔드 개발, 기획, Infra 
+</blockquote>
+
+💡 [카카오 관광데이터 활용 공모전 생태관광웹앱 서비스](https://github.com/ECO-TOUR/back-end)  
+<blockquote>
+ ROLE : 백엔드 개발, 기획, AWS 배포 
+</blockquote>
+
+
 
 ## 🖥️ Backend Programmer
 
@@ -23,7 +33,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4a154b?style=flat&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
 
-![novzs](https://github-readme-stats.vercel.app/api?username=novzs&show_icons=true&theme=solarized-dark)
 
 
 
