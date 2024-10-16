@@ -20,7 +20,7 @@
 
 💡 [KT AivleSchool AWS 안면인식 AI Rekognition 활용한 HRM 서비스](https://github.com/novzs/FAST_HRM)  
 <blockquote>
- ROLE : PM, 백엔드 개발, 기획, Infra <br/>
+ ROLE : PM, 백엔드 개발, 기획, Infra AWS 배포<br/>
  PERIOD : 2024-06 ~ 2024-08 <br/>
  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
@@ -31,7 +31,7 @@
 
 💡 [카카오 관광데이터 활용 공모전 생태관광웹앱 서비스](https://github.com/ECO-TOUR/back-end)  
 <blockquote>
- ROLE : 백엔드 개발, 기획, AWS 배포 <br/>
+ ROLE : 백엔드 개발, 기획, Infra AWS 배포 <br/>
  PERIOD : 2024-03 ~ 2024-10 <br/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
