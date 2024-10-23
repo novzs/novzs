@@ -3,7 +3,7 @@
 ✉️ E-mail : novzs@naver.com
 
 ## 📂 Project
-💡 [SK 기업 주도 스마트팩토리 이상탐지 서비스](https://github.com/K-Software-BootCamp/2023KEB_SKII)  
+💡 [SK 기업 주도 스마트팩토리 이상탐지 서비스](https://github.com/K-Software-BootCamp/2023KEB_SKII)  : **우수상**
 <blockquote>
  ROLE : 전처리 및 모델 개발 <br/>
  PERIOD : 2023-06 ~ 2023-08 <br/>
@@ -29,7 +29,7 @@
 
 </blockquote>
 
-💡 [카카오 관광데이터 활용 공모전 생태관광웹앱 서비스](https://github.com/ECO-TOUR/back-end)  
+💡 [카카오 관광데이터 활용 공모전 생태관광웹앱 서비스](https://github.com/ECO-TOUR/back-end)  : **장려상**
 <blockquote>
  ROLE : 백엔드 개발, 기획, Infra AWS 배포 <br/>
  PERIOD : 2024-03 ~ 2024-10 <br/>
