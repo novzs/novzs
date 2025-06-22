@@ -3,6 +3,18 @@
 ✉️ E-mail : novzs@naver.com
 
 ## 📂 Project
+💡 [Google 숏폼에서 장소 추출해 지도에 표시하기](https://github.com/K-Software-BootCamp/2023KEB_SKII)  : **대상**
+<blockquote>
+ ROLE : 백엔드 및 인프라 <br/>
+ PERIOD : 2025-04 ~ 2025-04 <br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/pgvector-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux"/>
+</blockquote>
+
+
 💡 [SK 기업 주도 스마트팩토리 이상탐지 서비스](https://github.com/K-Software-BootCamp/2023KEB_SKII)  : **우수상**
 <blockquote>
  ROLE : 전처리 및 모델 개발 <br/>
@@ -45,10 +57,12 @@
 
 ## 🏆 Awards
 
-| Award Name                         | Date       | Organization   |
-|------------------------------------|------------|------------|
-| KAKAO 관광데이터활용공모전 장려상       | 2024-11-19 | KAKAO, 한국관광공사| 
-| K-Softvation 스마트팩토리 우수상       | 2023-08-25 | 과학기술정보통신부| 
+| Award Name                         | Date       | Organization          |
+|------------------------------------|------------|-----------------------|
+| KAKAO 관광데이터활용공모전 장려상       | 2024-11-19 | KAKAO, 한국관광공사     | 
+| K-Softvation 스마트팩토리 우수상       | 2023-08-25 | 과학기술정보통신부       |
+| NIPA-Google 공모전 대상              | 2025-04-25 | KSTA, NIPA, Google  |
+
 
 ## 🗂 Education
 
