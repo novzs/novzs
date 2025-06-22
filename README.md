@@ -3,7 +3,7 @@
 ✉️ E-mail : novzs@naver.com
 
 ## 📂 Project
-💡 [Google 숏폼에서 장소 추출해 지도에 표시하기](https://github.com/K-Software-BootCamp/2023KEB_SKII)  : **대상**
+💡 [Google 숏폼에서 장소 추출해 지도에 표시하기](https://github.com/gooogling/Gaboljido)  : **대상**
 <blockquote>
  ROLE : 백엔드 및 인프라 <br/>
  PERIOD : 2025-04 ~ 2025-04 <br/>
